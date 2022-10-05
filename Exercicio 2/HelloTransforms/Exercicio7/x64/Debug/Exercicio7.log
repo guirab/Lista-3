@@ -1,0 +1,16 @@
+﻿  glad.c
+  Origem.cpp
+C:\Users\eduar\source\repos\L\HelloTransforms\Exercicio7\Origem.cpp(39,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+Origem.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPEAUGLFWwindow@@HHHH@Z)
+Origem.obj : error LNK2019: unresolved external symbol glfwGetFramebufferSize referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwSetKeyCallback referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+Origem.obj : error LNK2019: unresolved external symbol glfwGetProcAddress referenced in function main
+C:\Users\eduar\Source\Repos\L\HelloTransforms\x64\Debug\HelloTransforms.exe : fatal error LNK1120: 12 unresolved externals
